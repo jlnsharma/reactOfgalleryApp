@@ -1,0 +1,11 @@
+/* Write your code here. */
+.list-item {
+  margin-right: 0px;
+}
+.img {
+  cursor: pointer;
+  outline: none;
+  margin-left: 0px;
+  border: none;
+  background-color: transparent;
+}

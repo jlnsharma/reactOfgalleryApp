@@ -1,0 +1,27 @@
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main-img {
+  width: 600px;
+}
+.card {
+  margin: 30px;
+}
+.heading {
+  font-size: 18px;
+  color: #1e293b;
+}
+.desc {
+  font-size: 13px;
+  color: #64748b;
+}
+.list-cont {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
